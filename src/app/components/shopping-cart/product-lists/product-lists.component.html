@@ -3,5 +3,5 @@
 
         <!-- here we are sending the whole product list so using property binding to send the data -->
         
-     <app-product-item [productItem]="product"></app-product-item>
-    </div>
+     <app-product-item [productItem]="product" [addTowishlist]="wishlist.indexOf(product.id) >=0"></app-product-item>
+    </div> 

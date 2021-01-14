@@ -64,127 +64,15 @@
       "price": 299
     }
   ],
-  "cart": [
+  "wishlist": [
     {
-      "product": {
-        "id": 4,
-        "name": "Just Flowers Cute Teddy with Roses Bouquet Small",
-        "description": " Just Flowers Cute Teddy with Roses Bouquet Small Brand: Just FlowersMRF Icon+ kashmir Willow",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71IeYNcBYdL._SL1280_.jpg",
-        "price": 199
-      },
       "id": 1
     },
     {
-      "product": {
-        "id": 4,
-        "name": "Just Flowers Cute Teddy with Roses Bouquet Small",
-        "description": " Just Flowers Cute Teddy with Roses Bouquet Small Brand: Just FlowersMRF Icon+ kashmir Willow",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71IeYNcBYdL._SL1280_.jpg",
-        "price": 199
-      },
-      "id": 6
-    },
-    {
-      "product": {
-        "id": 4,
-        "name": "Just Flowers Cute Teddy with Roses Bouquet Small",
-        "description": " Just Flowers Cute Teddy with Roses Bouquet Small Brand: Just FlowersMRF Icon+ kashmir Willow",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71IeYNcBYdL._SL1280_.jpg",
-        "price": 199
-      },
-      "id": 7
-    },
-    {
-      "product": {
-        "id": 4,
-        "name": "Just Flowers Cute Teddy with Roses Bouquet Small",
-        "description": " Just Flowers Cute Teddy with Roses Bouquet Small Brand: Just FlowersMRF Icon+ kashmir Willow",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71IeYNcBYdL._SL1280_.jpg",
-        "price": 199
-      },
-      "id": 8
-    },
-    {
-      "product": {
-        "id": 1,
-        "name": "Men's Sunglasses",
-        "description": " A Perfect Blend Of Highly Durable Modern Day Material Styled With Pure Craftsmanship",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61lXFJKVfXL._UL1500_.jpg",
-        "price": 700
-      },
-      "id": 9
-    },
-    {
-      "product": {
-        "id": 4,
-        "name": "Just Flowers Cute Teddy with Roses Bouquet Small",
-        "description": " Just Flowers Cute Teddy with Roses Bouquet Small Brand: Just FlowersMRF Icon+ kashmir Willow",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71IeYNcBYdL._SL1280_.jpg",
-        "price": 199
-      },
-      "id": 10
-    },
-    {
-      "product": {
-        "id": 4,
-        "name": "Just Flowers Cute Teddy with Roses Bouquet Small",
-        "description": " Just Flowers Cute Teddy with Roses Bouquet Small Brand: Just FlowersMRF Icon+ kashmir Willow",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71IeYNcBYdL._SL1280_.jpg",
-        "price": 199
-      },
-      "id": 11
-    },
-    {
-      "product": {
-        "id": 4,
-        "name": "Just Flowers Cute Teddy with Roses Bouquet Small",
-        "description": " Just Flowers Cute Teddy with Roses Bouquet Small Brand: Just FlowersMRF Icon+ kashmir Willow",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71IeYNcBYdL._SL1280_.jpg",
-        "price": 199
-      },
-      "id": 12
-    },
-    {
-      "product": {
-        "id": 4,
-        "name": "Just Flowers Cute Teddy with Roses Bouquet Small",
-        "description": " Just Flowers Cute Teddy with Roses Bouquet Small Brand: Just FlowersMRF Icon+ kashmir Willow",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71IeYNcBYdL._SL1280_.jpg",
-        "price": 199
-      },
-      "id": 13
-    },
-    {
-      "product": {
-        "id": 1,
-        "name": "Men's Sunglasses",
-        "description": " A Perfect Blend Of Highly Durable Modern Day Material Styled With Pure Craftsmanship",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61lXFJKVfXL._UL1500_.jpg",
-        "price": 700
-      },
-      "id": 14
-    },
-    {
-      "product": {
-        "id": 4,
-        "name": "Magic Cube Puzzle Toy",
-        "description": "High Speed Magic Cube Puzzle Toy",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51WClQW7aGL._SL1202_.jpg",
-        "price": 199
-      },
-      "id": 15
-    },
-    {
-      "product": {
-        "id": 21,
-        "name": "Cube-Children-s-Puzzle-Magic-Cubes",
-        "description": "Cube-Children-s-Puzzle-Magic-Cubes-DIY",
-        "imageUrl": "https://image.made-in-china.com/202f0j00WgnUZkqASzcw/Square-Cube-Children-s-Puzzle-Magic-Cubes-DIY-Educational-Toys-for-Kids.webp",
-        "price": 299
-      },
-      "id": 16
-    },
+      "id": 4
+    }
+  ],
+  "cart": [
     {
       "product": {
         "id": 31,
@@ -197,13 +85,13 @@
     },
     {
       "product": {
-        "id": 21,
-        "name": "Cube-Children-s-Puzzle-Magic-Cubes",
-        "description": "Cube-Children-s-Puzzle-Magic-Cubes-DIY",
-        "imageUrl": "https://image.made-in-china.com/202f0j00WgnUZkqASzcw/Square-Cube-Children-s-Puzzle-Magic-Cubes-DIY-Educational-Toys-for-Kids.webp",
-        "price": 299
+        "id": 5,
+        "name": "KASHMIR WILLOW CRICKET BAT",
+        "description": "SS KASHMIR WILLOW CRICKET BAT- EXTREM Level:(COVER INCLUDED) Intermediate Sarawak cane handle",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Dhktbuv0L._SL1000_.jpg",
+        "price": 699
       },
-      "id": 18
+      "id": 21
     },
     {
       "product": {
@@ -213,7 +101,47 @@
         "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Dhktbuv0L._SL1000_.jpg",
         "price": 699
       },
-      "id": 19
+      "id": 22
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Men's Sunglasses",
+        "description": " A Perfect Blend Of Highly Durable Modern Day Material Styled With Pure Craftsmanship",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61lXFJKVfXL._UL1500_.jpg",
+        "price": 700
+      },
+      "id": 23
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Men's Sunglasses",
+        "description": " A Perfect Blend Of Highly Durable Modern Day Material Styled With Pure Craftsmanship",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61lXFJKVfXL._UL1500_.jpg",
+        "price": 700
+      },
+      "id": 24
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Men's Sunglasses",
+        "description": " A Perfect Blend Of Highly Durable Modern Day Material Styled With Pure Craftsmanship",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61lXFJKVfXL._UL1500_.jpg",
+        "price": 700
+      },
+      "id": 25
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Men's Sunglasses",
+        "description": " A Perfect Blend Of Highly Durable Modern Day Material Styled With Pure Craftsmanship",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61lXFJKVfXL._UL1500_.jpg",
+        "price": 700
+      },
+      "id": 26
     }
   ],
   "posts": [
