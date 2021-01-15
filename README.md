@@ -10,11 +10,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Quick Start
 ### Install Node.js and Angular-cli:
 
-$ Download Project
-$ cd shopping-cart
-$ npm i and it will run on following port
-$ http://localhost:4200/ 
-$ for running json server "json-server db.json" open http://localhost:3000/products
+*$ Download Project
+*$ cd shopping-cart
+*$ npm i and it will run on following port
+*$ http://localhost:4200/ 
+*$ for running json server "json-server db.json" open http://localhost:3000/products
 
 ## Development server
 
