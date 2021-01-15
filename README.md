@@ -35,7 +35,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 At a high level, the structure looks roughly like this:
 
  ![](images/architect1.png)
- ![](images/architect2.png)
+ ![](images/architec2.png)
  ![](images/architect3.png)
 
 ## Code scaffolding
