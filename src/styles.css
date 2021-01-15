@@ -40,3 +40,21 @@ html {
     color: palevioletred;
     cursor: pointer;
   }
+  .btn-primary.disabled, .btn-primary:disabled {
+    cursor: not-allowed;
+  }
+
+  .guest-form-card h2 {
+    text-transform: uppercase;
+    font-size: medium;
+  }
+
+  .guest-form-card label {
+    font-size: small;
+  }
+
+  .card, .form-control, .btn {
+    border-radius: 0;
+  }
+
+ 
