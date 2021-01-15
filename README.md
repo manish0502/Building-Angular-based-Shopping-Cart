@@ -62,6 +62,10 @@ At a high level, the structure looks roughly like this:
   
   ![](images/2.png)
   
+  *Validated-registartion-view
+  
+  ![](images/reg-val.png)
+  
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
