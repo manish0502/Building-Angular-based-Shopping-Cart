@@ -2,9 +2,27 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 ![](images/angular.png)
+
+# Quick Start
+### Install Node.js and Angular-cli:
+
+$ Download Project
+$ cd shopping-cart
+$ npm i and it will run on following port
+$ http://localhost:4200/ 
+$ for running json server "json-server db.json" open http://localhost:3000/products
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+
+## Tools
+ AngularJS - Base framework
+ Bootstrap4.5 - Build
+ NPM , Nodejs , json-server
+ Animate.css - Animation library, use with ng-animate
+ Rxjs
 
 ## Code scaffolding
 
