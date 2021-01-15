@@ -1,4 +1,4 @@
-### Angular ShoppingCart
+# Angular ShoppingCart
 ![](images/angular.png)
 
 
@@ -22,12 +22,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 ## Tools
+```sh
  * AngularJS - Base framework
  * Bootstrap4.5 - Build
  * NPM , Nodejs , json-server
  * Animate.css - Animation library, use with ng-animate
  * Rxjs
-
+```
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
