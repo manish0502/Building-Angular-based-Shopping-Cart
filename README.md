@@ -50,9 +50,18 @@ At a high level, the structure looks roughly like this:
 
 ## Overall Screens Looks as below.
 
- * 1
+ * Main screen
+ 
    ![](images/1.png)
 
+ * Login screen
+ 
+   ![](images/3.png)
+   
+ * Registration
+  
+  ![](images/2.png)
+  
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
