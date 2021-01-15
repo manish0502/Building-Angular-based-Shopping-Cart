@@ -35,7 +35,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 At a high level, the structure looks roughly like this:
 
  ![](images/architect1.png)
+ 
+ *At a high level, the main-page looks roughly like this:
  ![](images/architec2.png)
+ 
+ *At a high level, the services relation looks roughly like this:
+
  ![](images/architect3.png)
 
 ## Code scaffolding
