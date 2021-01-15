@@ -22,11 +22,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 ## Tools
- AngularJS - Base framework
- Bootstrap4.5 - Build
- NPM , Nodejs , json-server
- Animate.css - Animation library, use with ng-animate
- Rxjs
+ * AngularJS - Base framework
+ * Bootstrap4.5 - Build
+ * NPM , Nodejs , json-server
+ * Animate.css - Animation library, use with ng-animate
+ * Rxjs
 
 ## Code scaffolding
 
