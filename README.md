@@ -29,6 +29,14 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
  * Animate.css - Animation library, use with ng-animate
  * Rxjs
 ```
+
+## Overall Directory Structure
+
+At a high level, the structure looks roughly like this:
+```sh
+ ![](images/architect1.png)
+````
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
