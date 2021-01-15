@@ -1,7 +1,7 @@
 ### Angular ShoppingCart
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 ![](images/angular.png)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+
 
 # Quick Start
 ### Install Node.js and Angular-cli:
