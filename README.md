@@ -33,9 +33,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Overall Directory Structure
 
 At a high level, the structure looks roughly like this:
-```sh
+
  ![](images/architect1.png)
-````
+
 
 ## Code scaffolding
 
