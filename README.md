@@ -48,6 +48,11 @@ At a high level, the structure looks roughly like this:
  * `module.prefix and module.suffix` - our compiled application script is wrapped in these, which by default are used to place the application inside a self-    
  * `package.json` - metadata about the app, used by NPM and our build script. Our NPM dependencies are listed here.
 
+## Overall Screens Looks as below.
+
+ * 1
+   ![](images/1.png)
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
